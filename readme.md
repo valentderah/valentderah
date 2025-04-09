@@ -8,5 +8,4 @@
   <img alt="Django" src="https://img.shields.io/badge/-Django-green?style=flat-square&logo=django&logoColor=white%22" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=jquery&logoColor=white%22" /> 
 </p>
