@@ -11,7 +11,8 @@ const about = {
   "stack": {
     "main": [ "Python", "JavaScript"],
     "also": ["Django", "Docker", "React"]
-  }
+  },
+  "find_me": "@valentderah"
 }
 
 console.log(about);
