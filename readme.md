@@ -7,7 +7,7 @@ const about = {
   "surname": "Dzerakh",
   "position": "Software Engineer",
   "company": "Insterra",
-  "location": "Saint Petersburg, Russia",
+  "location": "Saint Petersburg",
   "stack": {
     "main": [ "Python", "JavaScript"],
     "also": ["Django", "Docker", "React"]
