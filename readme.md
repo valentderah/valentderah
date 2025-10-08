@@ -1,18 +1,18 @@
-Приветствую 👋
+Hello 👋
 ---
 
 ```js
 const about = {
-  "name": "Валентин",
-  "surname": "Дерах",
-  "position": "Full-stack разработчик",
-  "company": "Инстерра",
-  "location": "Санкт-Петербург",
+  "name": "Valiantsinz",
+  "surname": "Dzerakh",
+  "position": "Software Engineer",
+  "company": "Insterra",
+  "location": "Saint Petersburg",
   "stack": {
     "main": [ "Python", "JavaScript"],
     "also": ["Django", "Docker", "React"]
   },
-  "find_me": "@valentderah"
+  "tag": "@valentderah"
 }
 
 console.log(about);
