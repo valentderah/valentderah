@@ -3,11 +3,11 @@ Hello 👋
 
 ```js
 const about = {
-  "name": "Valiantsinz",
+  "name": "Valiantsin",
   "surname": "Dzerakh",
   "position": "Software Engineer",
   "company": "Insterra",
-  "location": "Saint Petersburg",
+  "location": "Saint Petersburg, Russia",
   "stack": {
     "main": [ "Python", "JavaScript"],
     "also": ["Django", "Docker", "React"]
