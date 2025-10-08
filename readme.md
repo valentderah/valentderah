@@ -11,8 +11,7 @@ const about = {
   "stack": {
     "main": [ "Python", "JavaScript"],
     "also": ["Django", "Docker", "React"]
-  },
-  "tag": "@valentderah"
+  }
 }
 
 console.log(about);
