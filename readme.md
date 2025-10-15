@@ -10,7 +10,7 @@ const about = {
   "location": "Saint Petersburg",
   "stack": {
     "main": [ "Python", "JavaScript"],
-    "also": ["Django", "Docker", "React"]
+    "also": ["Django", "Docker", "Redis", "Celery", "SQL", "React"]
   }
 }
 
